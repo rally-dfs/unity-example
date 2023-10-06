@@ -1,0 +1,43 @@
+VisualElement {}
+
+.demoButton {
+    font-size: 18px;
+    background-color: #EFF4FA;
+    width: 180px;
+    height: 48px;
+    color: #257aa7;
+    border-radius: 24px;
+    border-width: 0px;
+    align-self: center;
+    -unity-text-align: middle-center;
+}
+
+.demoButton:hover {
+    background-color: #c9dcec;
+}
+
+.demoButton:active {
+    background-color: #ebf3fb;
+}
+
+.demoTab {
+    border-width: 0px;
+    border-bottom-width: 2px;
+    border-color: #ececf4;
+    background-color: transparent;
+    flex-grow: 1;
+}
+
+.demoTab:hover {
+    color: #a4c4db;
+    border-color: #a4c4db;
+}
+
+.demoTabActive {
+    border-width: 0px;
+    border-bottom-width: 2px;
+    background-color: transparent;
+    border-color: #257aa7;
+    color: #257aa7;
+    flex-grow: 1;
+}

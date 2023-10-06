@@ -1,0 +1,29 @@
+{
+    "name": "RlyNetwork.Runtime",
+    "rootNamespace": "RlyNetwork",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Extensions.Logging.Abstractions.dll",
+        "NBitcoin.dll",
+        "Nethereum.ABI.dll",
+        "Nethereum.Accounts.dll",
+        "Nethereum.Contracts.dll",
+        "Nethereum.HdWallet.dll",
+        "Nethereum.Hex.dll",
+        "Nethereum.JsonRpc.Client.dll",
+        "Nethereum.RPC.dll",
+        "Nethereum.Signer.dll",
+        "Nethereum.Signer.EIP712.dll",
+        "Nethereum.Util.dll",
+        "Nethereum.Web3.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
